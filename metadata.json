@@ -1,0 +1,6 @@
+{
+  "name": "BetTac",
+  "description": "Premium Wagering Tic Tac Toe where players can wager simulated funds, play local multiplayer, or battle a highly advanced, ultra-profitable bot with customizable stakes and fee collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
